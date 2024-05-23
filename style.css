@@ -1,0 +1,15 @@
+#bd  {
+   background-color: black;
+   color: white;
+} 
+#start{
+
+  background-color: yellow;
+  color: blue;
+  size : 10px;
+}
+
+#stop{
+    background-color: blue ; 
+    color : white;
+}
